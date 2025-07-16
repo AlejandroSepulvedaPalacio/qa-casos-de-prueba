@@ -26,3 +26,8 @@ Versiones simplificadas de los casos en formato Markdown para consulta directa e
 ---
 
 ⚠️ **Nota:** Este repositorio no incluye código confidencial ni datos sensibles de los proyectos donde trabajé.
+
+
+👤 Autor Santiago Alejandro Sepúlveda Palacio 
+|QA Engineer| 
+📧 santiagosepulveda.engineer@gmail.com
